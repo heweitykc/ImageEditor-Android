@@ -3,8 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ImageEditor-Android.iml" filepath="$PROJECT_DIR$/ImageEditor-Android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/imageeditlibrary/imageeditlibrary.iml" filepath="$PROJECT_DIR$/imageeditlibrary/imageeditlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo/ImageEditor-Android.demo.iml" filepath="$PROJECT_DIR$/.idea/modules/demo/ImageEditor-Android.demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo/ImageEditor-Android.demo.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/demo/ImageEditor-Android.demo.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo/ImageEditor-Android.demo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo/ImageEditor-Android.demo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo/ImageEditor-Android.demo.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/demo/ImageEditor-Android.demo.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imageeditlibrary/ImageEditor-Android.imageeditlibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/imageeditlibrary/ImageEditor-Android.imageeditlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imageeditlibrary/ImageEditor-Android.imageeditlibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/imageeditlibrary/ImageEditor-Android.imageeditlibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imageeditlibrary/ImageEditor-Android.imageeditlibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/imageeditlibrary/ImageEditor-Android.imageeditlibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imageeditlibrary/ImageEditor-Android.imageeditlibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/imageeditlibrary/ImageEditor-Android.imageeditlibrary.unitTest.iml" />
     </modules>
   </component>
 </project>

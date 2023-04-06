@@ -1,0 +1,2 @@
+D:\work\ImageEditor-Android\imageeditlibrary\jni\Android.mk
+D:\work\ImageEditor-Android\imageeditlibrary\jni\Application.mk

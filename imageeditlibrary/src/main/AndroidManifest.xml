@@ -3,7 +3,7 @@
     package="com.xinlan.imageeditlibrary" >
     <application>
         <!--图片编辑Activity-->
-        <activity
+        <activity android:exported="true"
             android:name="com.xinlan.imageeditlibrary.editimage.EditImageActivity">
         </activity>
     </application>

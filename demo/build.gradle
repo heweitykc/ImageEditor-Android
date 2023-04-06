@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 28
-    buildToolsVersion '28.0.3'
+    compileSdkVersion 33
 
     defaultConfig {
         applicationId "com.xinlan.imageeditandroid"
-        minSdkVersion 16
-        targetSdkVersion 23
+        ndkVersion "25.2.9519653"
+        minSdkVersion 21
+        targetSdkVersion 31
         versionCode 1
         versionName "1.0"
     }
